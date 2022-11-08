@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>goit-markup-hw-01</title>
+  </head>
+  <body>
+    <header>
+      <p>WebStudio</p>
+      <nav>Agencja Portfolio Kontakt</nav>
+      <p>info@devstudio.com</p>
+      <p>+48 111 111 111</p>
+    </header>
+    <main>
+      <h1>EFEKTYWNE ROZWIĄZANIA DLA WASZEGO BIZNESU</h1>
+      <p>Zamów usługe</p>
+    </main>
+    <aside>
+      <p>LOREM IPSUM</p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel arcu
+        sem. Sed non sodales dui. Interdum et malesuada
+      </p>
+      <p>LOREM IPSUM</p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel arcu
+        sem. Sed non sodales dui. Interdum et malesuada
+      </p>
+      <p>LOREM IPSUM</p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel arcu
+        sem. Sed non sodales dui. Interdum et malesuada
+      </p>
+      <p>LOREM IPSUM</p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel arcu
+        sem. Sed non sodales dui. Interdum et malesuada
+      </p>
+      <h2>Czym się zajmujemy</h2>
+      <img src="images/1.png" alt="typing_computer">
+      <img src="images/2.png" alt="phone while working">
+      <img src="images/3.png" alt="using tablet">
+    </aside>
+    <section>
+      <h2>Nasz zespół</h2>
+      <figure>
+      <img src="images/pracownik1.jpg" alt="worker" width="270" height="260">
+      <figcaption>John Doe <br> Product Designer</figcaption>
+    </figure>
+    <figure>
+      <img src="images/pracownik2.jpg" alt="worker" width="270" height="260">
+      <figcaption>John Doe <br> Frontend Developer</figcaption>
+    </figure>
+    <figure>
+      <img src="images/pracownik3.jpg" alt="worker" width="270" height="260">
+      <figcaption>John Doe <br> Marketing</figcaption>
+    </figure>
+    <figure>
+      <img src="images/pracownik4.jpg" alt="worker" width="270" height="260">
+      <figcaption>John Doe <br> UI Designer</figcaption>
+    </figure>
+    </section>
+    <footer>
+      <p>WebStudio</p>
+      <ul>
+        <li>m. Warszawa, Aleje Jerozolimskie 21</li>
+        <li>info@example.com</li>
+        <li>+48 111 111 111</li>
+      </ul>
+    </footer>
+  </body>
+</html>
